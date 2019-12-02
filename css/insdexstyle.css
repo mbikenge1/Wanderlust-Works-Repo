@@ -1,0 +1,46 @@
+body {
+  padding-top: 5rem;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+img {
+  width: 350px;
+  height: 350px;
+  border-radius: 18px;
+}
+#twitter #facebook #insta {
+width: 3px;
+height: 3px;
+border-radius: 18px;
+}
+h1, h2 {
+  color: black;
+  text-align: left;
+  font-family: courier;
+}
+
+p1, p2 {
+  color: black;
+  text-align: left;
+  font-family: courier;
+}
+
+p1,p2 {font-size: 3em;}
+
+h1, h2 {font-size: 2em;}
+
+img {
+  width : 320px;
+height: 350px}
+img {
+   border-radius: 50px;
+display: flex;
+margin-left: 20px;}
+div {
+  margin-top: 50px;
+  margin-bottom: 50px;}
+
+p.italic
+{font-style: italic;}
