@@ -16,7 +16,11 @@ h2, h3, h4 {
 }
 
 body {
+<<<<<<< Updated upstream
   background-color: #Ffffff !important;
+=======
+  background-color: #FFFFFF !important;
+>>>>>>> Stashed changes
 }
 
 p {
