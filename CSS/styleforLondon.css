@@ -1,0 +1,47 @@
+
+h1 {
+  color: black;
+  text-align: middle;
+  font-family: fantasy,cursive;
+  font-size: 2em;
+  text-align: middle;
+  padding-solid: outline-style solid;
+}
+h2, h3, h4 {
+  color: black;
+  text-align: left;
+  font-family: fantasy,cursive;
+  font-size: 3em;
+  text-decoration: underline;
+  text-decoration-color: blue;
+}
+p {
+  color: black;
+  text-align: left;
+  font-size: 1.5em;
+  font-family: fantasy, cursive;
+}
+#firstpic {
+  width: 600px;
+  height: 400px;
+  border-radius: 3px;
+  border: 5px solid black;
+}
+#toast {
+  width: 500px;
+  height: 300px;
+  border: 5px solid black;
+}
+#pizza {
+  width: 500px;
+  height: 300px;
+  border: 5px solid black;
+}
+#egg {
+  width: 500px;
+  height: 300px;
+  border: 5px solid black;
+}
+div {
+  padding: 30px;
+}
