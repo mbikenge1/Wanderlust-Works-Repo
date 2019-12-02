@@ -1,0 +1,125 @@
+body {
+  padding-top: 5rem;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+
+body {
+  background-color: #ffffff !important;
+}
+
+script {
+$('.carousel').carousel();
+}
+
+.navbar {
+  overflow: hidden;
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
+}
+
+.container header {
+  float: left;
+}
+
+.container nav {
+  height: 70px;
+   line-height: 70px;
+   border: 1px  solid green;
+   float: right;
+}
+
+/* Links inside the navbar */
+.navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change background on mouse-over */
+.navbar a:hover {
+  background: #ddd;
+  color: black;
+}
+
+/* Main content */
+.main {
+  margin-top: 20px; /* Add a top margin to avoid content overlay */
+}
+
+img {
+  width: 350px;
+  height: 350px;
+  border-radius: 18px;
+}
+#twitter #facebook #insta {
+width: 3px;
+height: 3px;
+border-radius: 18px;
+}
+
+h1, h2 {
+  color: white;
+  text-align: middle;
+  font-family: calibri;
+}
+
+p1, p2 {
+  color: black;
+  text-align: left;
+  font-family: calibri;
+}
+
+p1,p2 {font-size: 3em;}
+
+h1, h2 {font-size: 2em;}
+
+img {
+  width : 320px;
+height: 350px}
+img {
+   border-radius: 50px;
+display: flex;
+margin-left: 20px;}
+div {
+  margin-top: 50px;
+  margin-bottom: 50px;}
+
+p.italic
+{font-style: italic;}
+
+/* Box styles */
+.myBox {
+border: none;
+padding: 5px;
+font: 24px/36px sans-serif;
+width: 200px;
+height: 200px;
+overflow: scroll;
+}
+
+/* Scrollbar styles */
+::-webkit-scrollbar {
+width: 12px;
+height: 12px;
+}
+
+::-webkit-scrollbar-track {
+border-radius: 10px;
+width: 2px;
+border: 1px dotted #F4BAFF;
+}
+
+::-webkit-scrollbar-thumb {
+background: white;
+border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+background: white;
+}

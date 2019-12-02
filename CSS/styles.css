@@ -5,6 +5,42 @@ body {
   padding: 3rem 1.5rem;
   text-align: center;
 }
+
+body {
+  background-color: #ffffff !important;
+}
+
+script {
+$('.carousel').carousel();
+}
+
+.navbar {
+  overflow: hidden;
+  top: -0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
+}
+
+/* Links inside the navbar */
+.navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change background on mouse-over */
+.navbar a:hover {
+  background: #ddd;
+  color: black;
+}
+
+/* Main content */
+.main {
+  margin-top: 20px; /* Add a top margin to avoid content overlay */
+}
+
 img {
   width: 350px;
   height: 350px;
@@ -25,17 +61,20 @@ border-radius: 18px;
   height: 50px;
   border-radius: 18px;
 }
+
 h1, h2 {
   color: black;
   /* text-align: left; */
   font-family: courier;
   font-size: 2em;
+    text-align: middle;
 }
 p {
   color: black;
   /* text-align: left; */
   font-family: courier;
   font-style: 3em;
+    text-align: left;
 }
 p.italic {
   font-style: italic;
