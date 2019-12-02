@@ -12,7 +12,7 @@ body {
 
 script {
 $('.carousel').carousel();
-} 
+}
 
 img {
   width: 350px;
